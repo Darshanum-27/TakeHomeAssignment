@@ -1,0 +1,39 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+  }
+  
+  .login-success-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f9;
+  }
+  
+  .login-success-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  .login-success-card h1 {
+    color: #4caf50;
+    margin-bottom: 20px;
+  }
+  
+  .login-success-card p {
+    font-size: 18px;
+    color: #333;
+  }
+  
