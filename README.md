@@ -200,8 +200,8 @@ Your Django backend will be running on http://localhost:8000 and your React fron
   <img width="1673" alt="output9" src="https://github.com/user-attachments/assets/667ebc04-ed82-4cf4-99ae-ca74ac119e48">
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://github.com/Darshanum-27))]
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-um/)]
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://github.com/Darshanum-27)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-um/)
 
 
 
