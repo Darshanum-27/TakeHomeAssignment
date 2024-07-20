@@ -138,63 +138,38 @@ npm start
 
 Your Django backend will be running on http://localhost:8000 and your React frontend on http://localhost:3000.
 ## Screenshots
-1) Virtual Private Cloud Screenshot
-  <img width="1678" alt="VPC" src="https://github.com/user-attachments/assets/5fca1470-1212-4f8f-a2da-a923a53b8600">
-  
-
-2) Subnet Screenshot:
-  <img width="1676" alt="subnet" src="https://github.com/user-attachments/assets/846aaac8-0985-434c-bb68-beac2225b46c">
-
-  
-3) S3 Bucket creation Screenshot:
-  <img width="1680" alt="s3 Bucket1" src="https://github.com/user-attachments/assets/fbbc220a-da46-458e-8385-eca34c6f7eb5">
-
-  
-4) S3 Bucket React.js build files upload:
-  <img width="1680" alt="S3 Bucket2" src="https://github.com/user-attachments/assets/63d4a28d-e8cb-4dfd-bc08-701570969566">
-
-  
-5) s3 Bucket static Link:
-  <img width="1669" alt="S3 Bucket3" src="https://github.com/user-attachments/assets/5fd2d765-09ab-4eae-a49c-39dd8151806f">
-
-  
-6) Ec2 instance running:
-  <img width="1680" alt="EC2" src="https://github.com/user-attachments/assets/d0f4272b-136e-4e58-8425-24a8da6fa553">
-
-  
-7) Landing Page:
+1) Landing Page:
   <img width="1680" alt="output1" src="https://github.com/user-attachments/assets/e2ba14a5-6278-4239-95a4-30a9d5606b74">
 
   
-8) Defalut Value Enter:
+2) Defalut Value Enter:
   <img width="1680" alt="output2" src="https://github.com/user-attachments/assets/239c09bf-54b6-474d-a928-178f9d21afc3">
 
   
-9) Login Successful:
+3) Login Successful:
   <img width="1680" alt="output3" src="https://github.com/user-attachments/assets/1c49b2d0-2fce-47cd-8d94-9db6c1ed26a3">
 
-  
-10) Back to Landing page from Login successful page:
+4) Back to Landing page from Login successful page:
   <img width="1680" alt="output4" src="https://github.com/user-attachments/assets/4f2491e3-d7ed-430a-9df7-28c777558ce1">
 
   
-11) Change Default Password:
+5) Change Default Password:
   <img width="1680" alt="output5" src="https://github.com/user-attachments/assets/0bb89d8e-1ad4-412e-80ea-48f6c3f276b5">
 
   
-12) Default Password Changed Successfully
+6) Default Password Changed Successfully
   <img width="1680" alt="output6" src="https://github.com/user-attachments/assets/1ad4c0d0-4476-4b29-b51f-d46cb684e3b2">
 
   
-13) Login with new Password:
+7) Login with new Password:
   <img width="1670" alt="output7" src="https://github.com/user-attachments/assets/9682d569-4c21-47be-89d1-6049d548949b">
 
   
-14) Loggedin Successfully:
+8) Loggedin Successfully:
   <img width="1680" alt="output8" src="https://github.com/user-attachments/assets/f75ffe1d-6f49-4e6e-9f81-71909523229e">
 
   
-15) Wrong Password Message:
+9) Wrong Password Message:
   <img width="1673" alt="output9" src="https://github.com/user-attachments/assets/667ebc04-ed82-4cf4-99ae-ca74ac119e48">
 
 
