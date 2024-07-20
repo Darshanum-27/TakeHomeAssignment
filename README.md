@@ -4,7 +4,7 @@
 This project is a simple web application developed as part of the take-home assignment for the junior software engineer position. The application is built using React.js for the frontend and Django for the backend. It is deployed on AWS using S3, EC2, VPC, Subnets, CloudFront and IAM.
 
 ## Demo
-[![LINK](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0](https://drive.google.com/file/d/161daVAKOoihpB7cVjylH-ynNsxLj2SzT/view?usp=drive_link)
+[![LINK](https://drive.google.com/file/d/161daVAKOoihpB7cVjylH-ynNsxLj2SzT/view?usp=drive_link)]
 
 ## Badges
 
