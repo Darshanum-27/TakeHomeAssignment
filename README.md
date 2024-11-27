@@ -1,5 +1,5 @@
 
-# Take Home Assignment
+# Simple Django Project
 
 This project is a simple web application developed as part of the take-home assignment for the junior software engineer position. The application is built using React.js for the frontend and Django for the backend. It is deployed on AWS using S3, EC2, VPC, Subnets, CloudFront and IAM.
 
